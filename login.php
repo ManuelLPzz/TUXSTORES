@@ -50,6 +50,6 @@ $conn->close();
     </form>
 
 
-    <a href="index.html"><button>regresar menu</button></a>
+    <a href="index.html"><button>regresar menuuu</button></a>
 </body>
 </html>
